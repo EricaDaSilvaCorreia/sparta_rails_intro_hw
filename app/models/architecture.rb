@@ -1,0 +1,3 @@
+class Architecture < ApplicationRecord
+  
+end
